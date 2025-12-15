@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "K",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-15T17:37:07.343336Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "K.G.L.W.",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/01_K.G.L.W._King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "F**k You",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/02_F_k_You_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Little K And J",
+      "artist": "My Little Airport",
+      "has_synced": true,
+      "path": "select/03_My_Little_K_And_J_My_Little_Airport.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Goodbye Summer (f(Amber+Luna+Krystal) (feat. D.O. of EXO-K))",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/04_Goodbye_Summer_(f(Amber+Luna+Krystal)_(feat._D.O._of_EXO-K))_f(x).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chienne de Vie (Feat. L.E.C.K)",
+      "artist": "Sniper",
+      "has_synced": true,
+      "path": "select/05_Chienne_de_Vie_(Feat._L.E.C.K)_Sniper.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Come and See Me (feat. Big K.R.I.T.)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/06_Come_and_See_Me_(feat._Big_K.R.I.T.)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "K.L.A.R.O.",
+      "artist": "Fettes Brot",
+      "has_synced": false,
+      "path": "select/07_K.L.A.R.O._Fettes_Brot.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Make My (Feat. Big K.R.I.T. & Dice Raw)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/08_Make_My_(Feat._Big_K.R.I.T._&_Dice_Raw)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Diamond Dogs - K-Tel Best Of... Edit; 2004 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/09_Diamond_Dogs_-_K-Tel_Best_Of..._Edit;_2004_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Diamond Dogs (K-Tel Best of Bowie Edit)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/10_Diamond_Dogs_(K-Tel_Best_of_Bowie_Edit)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Scream a.k.a. Itchin'",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/11_Scream_a.k.a._Itchin'_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The World Is Not Enough (U.N.K.L.E. Remix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/12_The_World_Is_Not_Enough_(U.N.K.L.E._Remix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Invisible (feat. Uli K & Bladee)",
+      "artist": "Yung Sherman feat. Uli K & Bladee",
+      "has_synced": true,
+      "path": "select/13_Invisible_(feat._Uli_K_&_Bladee)_Yung_Sherman_feat._Uli_K_&_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Invisible (feat. Uli K & Bladee)",
+      "artist": "Yung Sherman",
+      "has_synced": true,
+      "path": "select/14_Invisible_(feat._Uli_K_&_Bladee)_Yung_Sherman.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Licking an Orchid (feat. James K)",
+      "artist": "Yves Tumor",
+      "has_synced": true,
+      "path": "select/15_Licking_an_Orchid_(feat._James_K)_Yves_Tumor.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Believe In Me (feat. Buffalobang, K_bry, Scary & Sg37)",
+      "artist": "Loveboy",
+      "has_synced": true,
+      "path": "select/16_Believe_In_Me_(feat._Buffalobang,_K_bry,_Scary_&_Sg37)_Loveboy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bruk Out (Feat. T.O.K & Ms. Thing)",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/17_Bruk_Out_(Feat._T.O.K_&_Ms._Thing)_Major_Lazer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "K",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_K_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
